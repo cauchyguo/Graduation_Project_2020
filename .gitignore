@@ -1,0 +1,13 @@
+
+/data_set/train/厨余垃圾/
+/data_set/pictures/厨余垃圾/
+/data_set/pictures/可回收物/
+/data_set/pictures/其他垃圾/
+/data_set/pictures/有害垃圾/
+/data_set/train/其他垃圾/
+/data_set/train/可回收物/
+/data_set/train/有害垃圾/
+/data_set/val/其他垃圾/
+/data_set/val/厨余垃圾/
+/data_set/val/可回收物/
+/data_set/val/有害垃圾/
